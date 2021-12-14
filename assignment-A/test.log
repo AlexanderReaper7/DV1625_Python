@@ -1,0 +1,24 @@
+
+INFO [L:45] 
+Testing if the required functions are implemented. (['insertionsort', 'quicksort', 'heapsort'])
+
+INFO [L:53] All required functions are there.
+
+
+INFO [L:113] Correct sorting: sorted
+
+INFO [L:113] Correct sorting: quicksort
+
+INFO [L:113] Correct sorting: heapsort
+
+INFO [L:113] Correct sorting: insertionsort
+
+INFO [L:164] Performance check OK, all requirements met
+
+INFO [L:84] 
+Checking code quality by pylint score, 8.0 is minimum to pass
+
+INFO [L:105] Lint score OK
+
+INFO [L:177] 
+All tests passed successfully!

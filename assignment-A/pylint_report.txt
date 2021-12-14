@@ -1,0 +1,19 @@
+************* Module insertionsort
+insertionsort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.75/10 (previous run: 8.75/10, +0.00)
+
+************* Module quicksort
+quicksort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+quicksort.py:39:8: C0103: Variable name "p" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 9.09/10 (previous run: 9.09/10, +0.00)
+
+************* Module heapsort
+heapsort.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 9.52/10 (previous run: 9.52/10, +0.00)
+

@@ -1,0 +1,50 @@
+sorted refers to Python built-in sorted function
+
+
+Sorting 1000 items, values (0,1000)
+Algorithm                 Time (seconds)
+------------------------------------------
+sorted                    8.14e-05
+quicksort                 0.00134
+heapsort                  0.002853
+insertionsort             0.02112
+
+Sorting 1000 items, values (0,100000)
+Algorithm                 Time (seconds)
+------------------------------------------
+sorted                    7.64e-05
+quicksort                 0.001478
+heapsort                  0.00287
+insertionsort             0.02288
+
+Sorting 1000 items, values (0,10000000)
+Algorithm                 Time (seconds)
+------------------------------------------
+sorted                    7.61e-05
+quicksort                 0.001276
+heapsort                  0.002747
+insertionsort             0.02094
+
+Sorting 10000 items, values (0,1000)
+Algorithm                 Time (seconds)
+------------------------------------------
+sorted                    0.0009498
+quicksort                 0.02236
+heapsort                  0.03899
+insertionsort             2.152
+
+Sorting 10000 items, values (0,100000)
+Algorithm                 Time (seconds)
+------------------------------------------
+sorted                    0.0009567
+quicksort                 0.02079
+heapsort                  0.039
+insertionsort             2.141
+
+Sorting 10000 items, values (0,10000000)
+Algorithm                 Time (seconds)
+------------------------------------------
+sorted                    0.0009778
+quicksort                 0.01948
+heapsort                  0.0375
+insertionsort             2.156
